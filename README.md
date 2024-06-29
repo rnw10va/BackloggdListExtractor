@@ -3,7 +3,7 @@ Extracts Backloggd.com lists out of Backloggd.com for use elsewhere. It works on
 
 View a Backloggd.com list's source in your browser and then paste it in the blank line underneath the "backloggdWebPage="""" line of code.
 
-This can be ran in a online interpreter, such as the following: https://www.online-python.com/
+This can be ran in an online interpreter, such as the following: https://www.online-python.com/
 
 I made this so that backloggd lists can be pasted into random selection wheels, such as the following: https://wheelofnames.com/
 
