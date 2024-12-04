@@ -1,4 +1,4 @@
-# BackloggdListExtractor
+# BackloggdListExtractor (Succeeded by my new Firefox extension https://github.com/rnw10va/Unofficial-Backloggd-Extension)
 Extracts Backloggd.com lists out of Backloggd.com for use elsewhere. It works on you private lists or any public list.
 
 View a Backloggd.com list's source in your browser and then paste it in the blank line underneath the "backloggdWebPage="""" line of code.
